@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Vidaloka|Volkhov");
+
+body {
+  background: url(http://geeko.lesoir.be/wp-content/uploads/sites/58/2018/06/stranger-things.jpeg)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+  font-family: "Vidaloka", serif;
+  text-align: center;
+  padding: 15px;
+  color: crimson;
+  text-decoration: underline;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  padding: 15px;
+}
+.container {
+  background: rgba(245, 247, 248, 0.603);
+  width: 95%;
+}
+.form-control {
+  font-size: 18px;
+}
+.surveyQuestion {
+  font-size: 24px;
+  color: black;
+  padding-top: 15px;
+}
+.questionGif {
+  width: 100%;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.formQuestion {
+  padding: 15px;
+  border-bottom: grey 2px solid;
+}
+.btn {
+  margin: 15px;
+}
+#matchImg {
+  height: 200px;
+  margin: auto;
+}
+.row {
+  padding: 10px;
+}
+.quizHome {
+  margin-top: 10rem;
+  background-color: #fff;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+}
+.bffGif {
+  display: block;
+  margin: auto;
+  padding-top: 15px;
+}
